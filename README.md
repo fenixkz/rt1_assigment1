@@ -25,6 +25,9 @@ The robot should
 * Avoid touching the golden boxes
 * When the robot is close to a silver box, it should grab it, and move it behind itself
 
+## Running
+-----------------------------
+''python run.py solutions/assignment_solution.py''
 
 ## Flowchart of the algorithm
 -----------------------------
@@ -33,5 +36,7 @@ The robot should
 ## Hyper-parameters
 -----------------------------
 SAFE DISTANCE: minimal distance to detect an obstacle
+
 d_th: distance to grab a silver token
+
 a_th: angle to allign to a silver token
