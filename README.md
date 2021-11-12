@@ -27,7 +27,7 @@ The robot should
 
 ## Running
 -----------------------------
-''python run.py solutions/assignment_solution.py''
+'python run.py solutions/assignment_solution.py'
 
 ## Flowchart of the algorithm
 -----------------------------
@@ -40,3 +40,8 @@ SAFE DISTANCE: minimal distance to detect an obstacle
 d_th: distance to grab a silver token
 
 a_th: angle to allign to a silver token
+
+## Simple output
+------------------------------
+Output of an experiment can be found here:
+[Experiment](https://drive.google.com/file/d/1np9oa_EY9kJkW3ht0d-v2rK1SagzeVq5/view?usp=sharing)
